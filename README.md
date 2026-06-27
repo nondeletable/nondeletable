@@ -14,7 +14,7 @@ I'm a **developer** learning Python 🐍 and web development. I enjoy creating c
 
 ### 🛠️ My tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,pycharm,vscode,git,flask,qt,bash,linux,obsidian,postgres,sqlite,linkedin,gmail,discord,aiogram,docker,electron,pytest,telegram,ai&perline=9)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,html,css,js,pycharm,vscode,git,flask,qt,bash,linux,obsidian,postgres,sqlite,linkedin,gmail,discord,aiogram,docker,electron,pytest,telegram,ai&perline=9)](https://skillicons.dev)
 
 ---
 
